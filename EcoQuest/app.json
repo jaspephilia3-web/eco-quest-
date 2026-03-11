@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "EcoQuest",
+    "slug": "ecoquest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#1A3C2E"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ecoquest.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1A3C2E"
+      },
+      "package": "com.ecoquest.app"
+    },
+    "web": {
+      "bundler": "webpack"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+export const C = {
+  forest:    '#1A3C2E',
+  forestMid: '#234D3B',
+  emerald:   '#2D6A4F',
+  mint:      '#52B788',
+  lime:      '#95D5B2',
+  limeLight: '#B7E4C7',
+  cream:     '#F4F1EA',
+  sand:      '#E9C46A',
+  coral:     '#F4A261',
+  danger:    '#E76F51',
+  white:     '#FFFFFF',
+  dark:      '#1A2B20',
+  muted:     '#5A7A66',
+  border:    '#D8EAE0',
+  cardBg:    '#FFFFFF',
+};
